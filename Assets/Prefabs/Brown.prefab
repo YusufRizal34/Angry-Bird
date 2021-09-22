@@ -137,4 +137,5 @@ MonoBehaviour:
   RigidBody: {fileID: 3304829886963163305}
   Collider: {fileID: 3304829886963163304}
   _state: 0
-  _explodeForce: 60
+  _explodeForce: 500
+  explosion: {fileID: 1037071667937536863, guid: 5092e2a9b32d9a64ea8ada487e3e7a65, type: 3}
