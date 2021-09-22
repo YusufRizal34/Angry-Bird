@@ -1,0 +1,3 @@
+- menambah burung yg dapat meledak
+- menambah 1 level
+- game over dan next level
